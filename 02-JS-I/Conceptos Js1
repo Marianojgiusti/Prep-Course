@@ -1,0 +1,23 @@
+Variables
+// Es una forma de almacenar información que luego se podrá usar mas adelante, cuando se use esa variable,
+// se usará esa informacion guardada.
+
+Strings
+// Son todas esas palabras que se escriben y usan con doble comilla o comillas ( "palabra" o 'palabra')
+// Estas palabras se las define como bloque de caracteres.
+
+Funciones (argumentos, return)
+// Es todo código que comienza con la palabra clave "Function", al escribir esta palabra al comienzo
+// lo que siga va a ser la función. Lo primero va entre parentesis y luego entre corchetes todo el codigo
+// a ejecutar.
+// Los argumentos son las palabras que van dentro de los parentesis, esto pueden ser variables.
+// El return es la manera en que el codigo devuelva algo, por ejemplo escribir return 2 + 2 para que nos de 4.
+
+Declaraciones if
+// If significa Sí, por lo que es una condición donde entran en juego los booleanos, true (verdadero) y
+// false (falso), si una condicion es verdadera o falta el if generará un retorno dependiendo del valor y
+// la variable
+
+Valores booleanos (true, false)
+// Los valores booleanos se basan en un sistema binario como sería un codigo de 0 y 1, Java Script
+// contiene como retorno de condiciones, argumentos y variables el valor booleano true y false.
