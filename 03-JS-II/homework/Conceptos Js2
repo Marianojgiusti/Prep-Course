@@ -1,0 +1,11 @@
+Bucle For
+Es un bucle que evalua expresiones y se repite hasta que finaliza por la condicion que le demos o encuentre lo que estamos buscando.
+el For se expresa con paréntesis al principio, del cual dentro se incluye una declaracion de variable, una condición y el aumento de la variable para que
+el bucle se repita. Luego de los parentesis puede ir entre llaves condicionales como el if para agregar mas especificidad al por qué se esta haciendo el bucle.
+
+
+&&, ||, !
+
+Los tres son operadores lógicos, el "&&" significa "y" o "and", el "||" significa "o" u "or" y el "!" es lo contrario al elemento que sigue despues
+por ejemplo : != (significa distinto, en vez de igual"
+Son utilizados en los condicionales como el if para agregar elementos y dar una respuesta mas especifica
