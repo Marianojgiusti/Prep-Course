@@ -1,0 +1,7 @@
+Arrays
+
+Los Arrays son llamados también matrices o arreglos que contienen información ya sea de string, booleanos, numeros, etc.
+Pueden estar separados por comas o no, puede haber arrays dentro de arrays y siempre estan compuestos al inicio y al final con corchetes o brakets
+es decir "[]".
+Se puede crear un array mediante una variable e ir manualmente agregando información dentro de los "[]" o también mediante funciones como
+el .push, .pop., .shift, .unshift.
