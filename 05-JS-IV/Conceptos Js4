@@ -1,0 +1,18 @@
+Objetos:
+Son datos que se instancian entre corchetes, contienen mucha información sobre una sola cosa y en verdad todo lo que hay
+en JavaScript son objetos de una cierta manera.
+
+Propiedades:
+Es una asociación entre un nombre y un valor. Puede ser una función o mejor dicho método. Son las que definen las 
+características del objeto y tienen un nexo con él.
+
+Método:
+Función o propiedad de un objeto. Hay metodos de instancia y metodos estaticos.
+
+Bucle For in:
+se utiliza para recorrer un objeto con propiedades enumerables que no son simbolos del objeto.
+
+Notación de Puntos y de Corchetes
+Se utiliza para acceder a las propiedades. El de puntos es mas rapido y el de corchetes se utliza mas cuando se 
+deba reccorer un objeto o intercalar con alguna variable. También se puede utlizar la función Delete más la notación
+de puntos o corchetes para eliminar lo referido.
